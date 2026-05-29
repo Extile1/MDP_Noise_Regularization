@@ -1,6 +1,7 @@
-# Reacher PPO Training & Analysis
+# Noise as a Natural Regularizer in Markov Decision Processes
 
-This repository contains code to train PPO agents on a custom 2-Link Reacher MuJoCo environment, robustly handle noise (random actions, reset).
+This repository contains code for the Reacher experiments for the paper "Noise as a Natural Regularizer in Markov Decision Processes:
+Connecting Environmental Stochasticity and Policy Simplicity". We provide code to train PPO agents on a custom 2-Link Reacher MuJoCo environment, robustly handling noise (random actions, reset).
 
 ## File Structure
 
